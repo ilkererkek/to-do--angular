@@ -7,6 +7,8 @@ Basic to-do app with angular.js
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
+## JSON Server
+Rum `npm server` for the JSON Server. Which acts like a REST API for the app.
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
