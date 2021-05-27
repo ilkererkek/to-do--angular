@@ -71,6 +71,7 @@ body {
 }
 
 .form-control-check input {
-  flex: 2;
+  flex: 3;
   height: 20px;
+  margin-left: 20%;
 }
